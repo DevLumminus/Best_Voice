@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.avozdedeus.avozdedeusjpc.app-debug-47:/drawable__x_mobiledata_24px.xml.flat",
+        "source": "com.avozdedeus.avozdedeusjpc.app-main-49:/drawable/_x_mobiledata_24px.xml"
+    },
+    {
+        "merged": "com.avozdedeus.avozdedeusjpc.app-debug-47:/drawable_music_note_2_24px.xml.flat",
+        "source": "com.avozdedeus.avozdedeusjpc.app-main-49:/drawable/music_note_2_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\drawable_gemini_generated_image_e4i5kme4i5kme4i5.png.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\drawable\\gemini_generated_image_e4i5kme4i5kme4i5.png"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\drawable_logo_app.xml.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\drawable\\logo_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.avozdedeus.avozdedeusjpc.app-debug-47:/xml_data_extraction_rules.xml.flat",
+        "source": "com.avozdedeus.avozdedeusjpc.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.avozdedeus.avozdedeusjpc.app-debug-47:/xml_backup_rules.xml.flat",
+        "source": "com.avozdedeus.avozdedeusjpc.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.avozdedeus.avozdedeusjpc.app-debug-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.avozdedeus.avozdedeusjpc.app-main-49:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\drawable_music_note_2_24px.xml.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\drawable\\music_note_2_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\drawable__x_mobiledata_24px.xml.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\drawable\\_x_mobiledata_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\drawable_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\drawable\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\drawable_gemini_generated_image_47rg3d47rg3d47rg.xml.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\drawable\\gemini_generated_image_47rg3d47rg3d47rg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-debug-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Andre\\.gradle\\daemon\\8.13\\com.avozdedeus.avozdedeusjpc.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]

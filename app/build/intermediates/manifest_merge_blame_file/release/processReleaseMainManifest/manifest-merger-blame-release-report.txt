@@ -1,0 +1,233 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.avozdedeus.avozdedeusjpc"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+9        android:targetSdkVersion="36" />
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-77
+11-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:22-74
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+12-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:5-92
+12-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:22-89
+13    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+13-->[:feature:tuner] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\tuner\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-71
+13-->[:feature:tuner] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\tuner\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:22-68
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[androidx.media3:media3-exoplayer:1.10.0] C:\Users\Andre\.gradle\caches\8.13\transforms\fab3fc442c090c9ebefdf226e99bdb86\transformed\media3-exoplayer-1.10.0\AndroidManifest.xml:22:5-79
+14-->[androidx.media3:media3-exoplayer:1.10.0] C:\Users\Andre\.gradle\caches\8.13\transforms\fab3fc442c090c9ebefdf226e99bdb86\transformed\media3-exoplayer-1.10.0\AndroidManifest.xml:22:22-76
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->[androidx.media3:media3-exoplayer:1.10.0] C:\Users\Andre\.gradle\caches\8.13\transforms\fab3fc442c090c9ebefdf226e99bdb86\transformed\media3-exoplayer-1.10.0\AndroidManifest.xml:23:5-68
+15-->[androidx.media3:media3-exoplayer:1.10.0] C:\Users\Andre\.gradle\caches\8.13\transforms\fab3fc442c090c9ebefdf226e99bdb86\transformed\media3-exoplayer-1.10.0\AndroidManifest.xml:23:22-65
+16
+17    <permission
+17-->[androidx.core:core:1.18.0] C:\Users\Andre\.gradle\caches\8.13\transforms\499a319d9c577f0e8a732f63c84e0076\transformed\core-1.18.0\AndroidManifest.xml:22:5-24:47
+18        android:name="com.avozdedeus.avozdedeusjpc.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.18.0] C:\Users\Andre\.gradle\caches\8.13\transforms\499a319d9c577f0e8a732f63c84e0076\transformed\core-1.18.0\AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.18.0] C:\Users\Andre\.gradle\caches\8.13\transforms\499a319d9c577f0e8a732f63c84e0076\transformed\core-1.18.0\AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="com.avozdedeus.avozdedeusjpc.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.18.0] C:\Users\Andre\.gradle\caches\8.13\transforms\499a319d9c577f0e8a732f63c84e0076\transformed\core-1.18.0\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.18.0] C:\Users\Andre\.gradle\caches\8.13\transforms\499a319d9c577f0e8a732f63c84e0076\transformed\core-1.18.0\AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->C:\Users\Andre\Downloads\AVozdeDeusJPC\app\src\main\AndroidManifest.xml:4:5-13:54
+24        android:name="com.avozdedeus.avozdedeusjpc.MainApplication"
+24-->C:\Users\Andre\Downloads\AVozdeDeusJPC\app\src\main\AndroidManifest.xml:5:9-68
+25        android:allowBackup="true"
+25-->C:\Users\Andre\Downloads\AVozdeDeusJPC\app\src\main\AndroidManifest.xml:6:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.18.0] C:\Users\Andre\.gradle\caches\8.13\transforms\499a319d9c577f0e8a732f63c84e0076\transformed\core-1.18.0\AndroidManifest.xml:28:18-86
+27        android:dataExtractionRules="@xml/data_extraction_rules"
+27-->C:\Users\Andre\Downloads\AVozdeDeusJPC\app\src\main\AndroidManifest.xml:7:9-65
+28        android:extractNativeLibs="false"
+29        android:fullBackupContent="@xml/backup_rules"
+29-->C:\Users\Andre\Downloads\AVozdeDeusJPC\app\src\main\AndroidManifest.xml:8:9-54
+30        android:icon="@mipmap/ic_launcher"
+30-->C:\Users\Andre\Downloads\AVozdeDeusJPC\app\src\main\AndroidManifest.xml:9:9-43
+31        android:label="@string/app_name"
+31-->C:\Users\Andre\Downloads\AVozdeDeusJPC\app\src\main\AndroidManifest.xml:10:9-41
+32        android:roundIcon="@mipmap/ic_launcher_round"
+32-->C:\Users\Andre\Downloads\AVozdeDeusJPC\app\src\main\AndroidManifest.xml:11:9-54
+33        android:supportsRtl="true"
+33-->C:\Users\Andre\Downloads\AVozdeDeusJPC\app\src\main\AndroidManifest.xml:12:9-35
+34        android:theme="@style/Theme.AVozDeDeusJPC" >
+34-->C:\Users\Andre\Downloads\AVozdeDeusJPC\app\src\main\AndroidManifest.xml:13:9-51
+35        <activity
+35-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:9-14:58
+36            android:name="com.avozdedeus.avozdedeusjpc.audio.AudioActivity"
+36-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:13-76
+37            android:exported="false"
+37-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:13-37
+38            android:theme="@style/Theme.AVozDeDeusJPC" />
+38-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:13-55
+39
+40        <service
+40-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:16:9-25:19
+41            android:name="com.avozdedeus.avozdedeusjpc.audio.AudioPlaybackService"
+41-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:17:13-83
+42            android:enabled="true"
+42-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:18:13-35
+43            android:exported="true"
+43-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:19:13-36
+44            android:foregroundServiceType="mediaPlayback" >
+44-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:20:13-58
+45            <intent-filter>
+45-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:21:13-24:29
+46                <action android:name="androidx.media3.session.MediaSessionService" />
+46-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:22:17-86
+46-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:22:25-83
+47                <action android:name="android.media.browse.MediaBrowserService" />
+47-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:23:17-83
+47-->[:feature:audio] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:23:25-80
+48            </intent-filter>
+49        </service>
+50
+51        <activity
+51-->[:feature:settings] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\settings\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-11:58
+52            android:name="com.avozdedeus.avozdedeusjpc.settings.ConfigActivity"
+52-->[:feature:settings] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\settings\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:13-80
+53            android:exported="false"
+53-->[:feature:settings] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\settings\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:13-37
+54            android:theme="@style/Theme.AVozDeDeusJPC" />
+54-->[:feature:settings] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\settings\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-55
+55        <activity
+55-->[:feature:home] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\home\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-18:20
+56            android:name="com.avozdedeus.avozdedeusjpc.home.MainActivity"
+56-->[:feature:home] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\home\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:13-74
+57            android:exported="true"
+57-->[:feature:home] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\home\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:13-36
+58            android:label="@string/app_name"
+58-->[:feature:home] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\home\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-45
+59            android:theme="@style/Theme.AVozDeDeusJPC" >
+59-->[:feature:home] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\home\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:13-55
+60            <intent-filter>
+60-->[:feature:home] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\home\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:13-17:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->[:feature:home] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\home\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:17-69
+61-->[:feature:home] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\home\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->[:feature:home] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\home\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:16:17-77
+63-->[:feature:home] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\home\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:16:27-74
+64            </intent-filter>
+65        </activity>
+66        <activity
+66-->[:feature:help] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\help\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-11:58
+67            android:name="com.avozdedeus.avozdedeusjpc.help.HelpActivity"
+67-->[:feature:help] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\help\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:13-74
+68            android:exported="false"
+68-->[:feature:help] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\help\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:13-37
+69            android:theme="@style/Theme.AVozDeDeusJPC" />
+69-->[:feature:help] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\help\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-55
+70        <activity
+70-->[:feature:about] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\about\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-11:58
+71            android:name="com.avozdedeus.avozdedeusjpc.about.SobreActivity"
+71-->[:feature:about] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\about\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:13-76
+72            android:exported="false"
+72-->[:feature:about] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\about\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:13-37
+73            android:theme="@style/Theme.AVozDeDeusJPC" />
+73-->[:feature:about] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\about\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-55
+74        <activity
+74-->[:feature:tuner] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\tuner\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:9-13:58
+75            android:name="com.avozdedeus.avozdedeusjpc.tuner.AfinadorActivity"
+75-->[:feature:tuner] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\tuner\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-79
+76            android:exported="false"
+76-->[:feature:tuner] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\tuner\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:13-37
+77            android:theme="@style/Theme.AVozDeDeusJPC" />
+77-->[:feature:tuner] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\tuner\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:13-55
+78        <activity
+78-->[:feature:acorde] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\acorde\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-11:58
+79            android:name="com.avozdedeus.avozdedeusjpc.acorde.AcordesActivity"
+79-->[:feature:acorde] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\acorde\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:13-79
+80            android:exported="false"
+80-->[:feature:acorde] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\acorde\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:13-37
+81            android:theme="@style/Theme.AVozDeDeusJPC" />
+81-->[:feature:acorde] C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\acorde\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-55
+82
+83        <uses-library
+83-->[androidx.window:window:1.5.0] C:\Users\Andre\.gradle\caches\8.13\transforms\f30bafe73e15529d931c5857af320bc9\transformed\window-1.5.0\AndroidManifest.xml:23:9-25:40
+84            android:name="androidx.window.extensions"
+84-->[androidx.window:window:1.5.0] C:\Users\Andre\.gradle\caches\8.13\transforms\f30bafe73e15529d931c5857af320bc9\transformed\window-1.5.0\AndroidManifest.xml:24:13-54
+85            android:required="false" />
+85-->[androidx.window:window:1.5.0] C:\Users\Andre\.gradle\caches\8.13\transforms\f30bafe73e15529d931c5857af320bc9\transformed\window-1.5.0\AndroidManifest.xml:25:13-37
+86        <uses-library
+86-->[androidx.window:window:1.5.0] C:\Users\Andre\.gradle\caches\8.13\transforms\f30bafe73e15529d931c5857af320bc9\transformed\window-1.5.0\AndroidManifest.xml:26:9-28:40
+87            android:name="androidx.window.sidecar"
+87-->[androidx.window:window:1.5.0] C:\Users\Andre\.gradle\caches\8.13\transforms\f30bafe73e15529d931c5857af320bc9\transformed\window-1.5.0\AndroidManifest.xml:27:13-51
+88            android:required="false" />
+88-->[androidx.window:window:1.5.0] C:\Users\Andre\.gradle\caches\8.13\transforms\f30bafe73e15529d931c5857af320bc9\transformed\window-1.5.0\AndroidManifest.xml:28:13-37
+89
+90        <provider
+90-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\d191939948fea9b4d0e8af80ff1d8ce8\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+91            android:name="androidx.startup.InitializationProvider"
+91-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\d191939948fea9b4d0e8af80ff1d8ce8\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+92            android:authorities="com.avozdedeus.avozdedeusjpc.androidx-startup"
+92-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\d191939948fea9b4d0e8af80ff1d8ce8\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+93            android:exported="false" >
+93-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\d191939948fea9b4d0e8af80ff1d8ce8\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+94            <meta-data
+94-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\d191939948fea9b4d0e8af80ff1d8ce8\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+95                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+95-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\d191939948fea9b4d0e8af80ff1d8ce8\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+96                android:value="androidx.startup" />
+96-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\d191939948fea9b4d0e8af80ff1d8ce8\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+97            <meta-data
+97-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\Andre\.gradle\caches\8.13\transforms\626e365bd86364fb0f11a1a4cb64163c\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:29:13-31:52
+98                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+98-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\Andre\.gradle\caches\8.13\transforms\626e365bd86364fb0f11a1a4cb64163c\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:30:17-78
+99                android:value="androidx.startup" />
+99-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\Andre\.gradle\caches\8.13\transforms\626e365bd86364fb0f11a1a4cb64163c\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:31:17-49
+100            <meta-data
+100-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+101                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+101-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+102                android:value="androidx.startup" />
+102-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+103        </provider>
+104
+105        <receiver
+105-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+106            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+106-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+107            android:directBootAware="false"
+107-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+108            android:enabled="true"
+108-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+109            android:exported="true"
+109-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+110            android:permission="android.permission.DUMP" >
+110-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+111            <intent-filter>
+111-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+112                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+112-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+112-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+113            </intent-filter>
+114            <intent-filter>
+114-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+115                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+115-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+115-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+116            </intent-filter>
+117            <intent-filter>
+117-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+118                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+118-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+118-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+119            </intent-filter>
+120            <intent-filter>
+120-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+121                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+121-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+121-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Andre\.gradle\caches\8.13\transforms\0ac5e15c8c1b16b8f82b09484461c201\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+122            </intent-filter>
+123        </receiver>
+124    </application>
+125
+126</manifest>

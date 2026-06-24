@@ -1,0 +1,2 @@
+-keep,allowobfuscation,allowshrinking class com.avozdedeus.avozdedeusjpc.about.SobreViewModel
+-keep,allowobfuscation,allowshrinking class com.avozdedeus.avozdedeusjpc.about.SobreViewModel

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.avozdedeus.avozdedeusjpc.tuner" >
+
+    <uses-sdk android:minSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application>
+        <activity
+            android:name="com.avozdedeus.avozdedeusjpc.tuner.AfinadorActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AVozDeDeusJPC" />
+    </application>
+
+</manifest>

@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Andre\\Downloads\\AVozdeDeusJPC\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Andre\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Andre\\Downloads\\AVozdeDeusJPC\\app\\.cxx\\Debug\\y4d6v4g5\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Andre\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Andre\\Downloads\\AVozdeDeusJPC\\app\\.cxx\\Debug\\y4d6v4g5\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "metronome_engine::@6890427a1f51a3e7e1df": {
+      "artifactName": "metronome_engine",
+      "abi": "x86",
+      "output": "C:\\Users\\Andre\\Downloads\\AVozdeDeusJPC\\app\\build\\intermediates\\cxx\\Debug\\y4d6v4g5\\obj\\x86\\libmetronome_engine.so",
+      "runtimeFiles": [
+        "C:\\Users\\Andre\\.gradle\\caches\\8.13\\transforms\\a9f0672f5fa28f1031ed2c9f18a99045\\transformed\\oboe-1.10.0\\prefab\\modules\\oboe\\libs\\android.x86\\liboboe.so"
+      ]
+    }
+  }
+}

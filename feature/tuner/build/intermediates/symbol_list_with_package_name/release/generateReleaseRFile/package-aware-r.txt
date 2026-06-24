@@ -1,0 +1,3 @@
+com.avozdedeus.avozdedeusjpc.tuner
+drawable icon_metrome
+drawable tuner_guitar_head

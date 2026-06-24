@@ -1,0 +1,2 @@
+-keep,allowobfuscation,allowshrinking class com.avozdedeus.avozdedeusjpc.acorde.AcordesViewModel
+-keep,allowobfuscation,allowshrinking class com.avozdedeus.avozdedeusjpc.acorde.AcordesViewModel

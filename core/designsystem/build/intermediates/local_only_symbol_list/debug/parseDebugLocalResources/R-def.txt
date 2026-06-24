@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+color theme_on_primary_container
+color theme_primary
+color theme_primary_container
+color theme_secondary
+color theme_secondary_container
+color theme_window_background
+drawable gemini_generated_image_47rg3d47rg3d47rg
+drawable ic_tuning_fork
+drawable logo_app
+drawable music_note_2_24px
+string app_name
+style Theme.AVozDeDeusJPC

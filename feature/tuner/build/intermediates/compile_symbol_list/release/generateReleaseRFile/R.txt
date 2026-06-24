@@ -1,0 +1,2 @@
+int drawable icon_metrome 0x0
+int drawable tuner_guitar_head 0x0

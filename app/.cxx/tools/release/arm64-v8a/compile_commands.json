@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Andre/Downloads/AVozdeDeusJPC/app/.cxx/RelWithDebInfo/23n6q542/arm64-v8a",
+  "command": "C:\\Users\\Andre\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android33 --sysroot=C:/Users/Andre/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmetronome_engine_EXPORTS -isystem C:/Users/Andre/.gradle/caches/8.13/transforms/a9f0672f5fa28f1031ed2c9f18a99045/transformed/oboe-1.10.0/prefab/modules/oboe/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wl,-z,max-page-size=16384 -O2 -g -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles\\metronome_engine.dir\\metronome_jni.cpp.o -c C:\\Users\\Andre\\Downloads\\AVozdeDeusJPC\\app\\src\\main\\cpp\\metronome_jni.cpp",
+  "file": "C:\\Users\\Andre\\Downloads\\AVozdeDeusJPC\\app\\src\\main\\cpp\\metronome_jni.cpp"
+}
+]

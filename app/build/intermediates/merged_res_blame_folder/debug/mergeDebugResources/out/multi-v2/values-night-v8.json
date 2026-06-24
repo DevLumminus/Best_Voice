@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.avozdedeus.avozdedeusjpc.app-mergeDebugResources-45:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Andre\\Downloads\\AVozdeDeusJPC\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "5,3,4,6,7,2",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "230,118,169,294,347,57",
+                        "endColumns": "62,49,59,51,61,59",
+                        "endOffsets": "288,163,224,341,404,112"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,118,168,228,280,342",
+                        "endColumns": "62,49,59,51,61,59",
+                        "endOffsets": "113,163,223,275,337,397"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Andre\\Downloads\\AVozdeDeusJPC\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "538"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "402",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "875"
+                    }
+                }
+            ]
+        }
+    ]
+}

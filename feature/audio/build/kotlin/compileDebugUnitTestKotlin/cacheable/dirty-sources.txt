@@ -1,0 +1,8 @@
+C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\src\test\java\com\avozdedeus\avozdedeusjpc\audio\analysis\PcmAudioInputStreamTest.kt
+C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\src\test\java\com\avozdedeus\avozdedeusjpc\audio\domain\MeterSuggestionTest.kt
+C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\src\test\java\com\avozdedeus\avozdedeusjpc\audio\presentation\AudioViewModelTest.kt
+C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\src\test\java\com\avozdedeus\avozdedeusjpc\audio\domain\AudioPlaybackLoopSupportTest.kt
+C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\src\test\java\com\avozdedeus\avozdedeusjpc\audio\analysis\OnsetSalienceFilterTest.kt
+C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\src\test\java\com\avozdedeus\avozdedeusjpc\audio\domain\BpmAnalysisTest.kt
+C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\src\test\java\com\avozdedeus\avozdedeusjpc\audio\domain\TapTempoCalculatorTest.kt
+C:\Users\Andre\Downloads\AVozdeDeusJPC\feature\audio\src\test\java\android\net\TestUri.kt

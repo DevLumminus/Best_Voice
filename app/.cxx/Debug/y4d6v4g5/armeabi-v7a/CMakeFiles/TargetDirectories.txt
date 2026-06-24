@@ -1,0 +1,3 @@
+C:/Users/Andre/Downloads/AVozdeDeusJPC/app/.cxx/Debug/y4d6v4g5/armeabi-v7a/CMakeFiles/metronome_engine.dir
+C:/Users/Andre/Downloads/AVozdeDeusJPC/app/.cxx/Debug/y4d6v4g5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Andre/Downloads/AVozdeDeusJPC/app/.cxx/Debug/y4d6v4g5/armeabi-v7a/CMakeFiles/rebuild_cache.dir

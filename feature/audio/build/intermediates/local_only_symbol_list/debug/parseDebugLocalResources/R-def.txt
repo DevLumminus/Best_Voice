@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+drawable _x_mobiledata_24px
+drawable ic_audio_search
+drawable icon_metrome

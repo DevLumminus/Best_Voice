@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.avozdedeus.avozdedeusjpc.settings" >
+
+    <uses-sdk android:minSdkVersion="30" />
+
+    <application>
+        <activity
+            android:name="com.avozdedeus.avozdedeusjpc.settings.ConfigActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AVozDeDeusJPC" />
+    </application>
+
+</manifest>

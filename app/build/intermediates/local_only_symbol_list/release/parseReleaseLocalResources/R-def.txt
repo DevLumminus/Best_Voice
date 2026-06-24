@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color theme_on_primary_container
+color theme_primary
+color theme_primary_container
+color theme_secondary
+color theme_secondary_container
+color theme_window_background
+drawable _x_mobiledata_24px
+drawable gemini_generated_image_47rg3d47rg3d47rg
+drawable gemini_generated_image_e4i5kme4i5kme4i5
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_launcher_round
+drawable logo_app
+drawable music_note_2_24px
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Theme.AVozDeDeusJPC
+xml backup_rules
+xml data_extraction_rules
